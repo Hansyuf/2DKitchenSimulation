@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Counter
+  - SaladCounter
+  - CheeseCounter
+  - PattyCounter
+  - TomatoCounter
+  - CuttingCounter
+  - StoveCounter
+  - DeliveryCounter
+  - TrashCounter
+  - PlateCounter
+  - BunCounter
+  - CutTomato
+  - CutSalad
+  - CutCheese
+  - CookedPatty
+  - CutLettuce
+  - LettuceCounter
+  - 'Assets\OrderQueue.cs(88,76): error CS0103: The name ''randomOrder'' does not
+    exist in the current context
+
+    
+
+'
+  - CookingAgent
+  - IngredientAgent
+  - DeliveryAgent
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
